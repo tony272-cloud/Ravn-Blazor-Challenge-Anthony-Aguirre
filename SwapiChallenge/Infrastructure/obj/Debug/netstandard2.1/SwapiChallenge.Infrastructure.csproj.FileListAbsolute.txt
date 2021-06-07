@@ -1,0 +1,12 @@
+D:\Proyectos\RavnBlazor\SwapiChallenge\Infrastructure\bin\Debug\netstandard2.1\SwapiChallenge.Infrastructure.deps.json
+D:\Proyectos\RavnBlazor\SwapiChallenge\Infrastructure\bin\Debug\netstandard2.1\SwapiChallenge.Infrastructure.dll
+D:\Proyectos\RavnBlazor\SwapiChallenge\Infrastructure\bin\Debug\netstandard2.1\SwapiChallenge.Infrastructure.pdb
+D:\Proyectos\RavnBlazor\SwapiChallenge\Infrastructure\bin\Debug\netstandard2.1\SwapiChallenge.Shared.dll
+D:\Proyectos\RavnBlazor\SwapiChallenge\Infrastructure\bin\Debug\netstandard2.1\SwapiChallenge.Shared.pdb
+D:\Proyectos\RavnBlazor\SwapiChallenge\Infrastructure\obj\Debug\netstandard2.1\SwapiChallenge.Infrastructure.csproj.AssemblyReference.cache
+D:\Proyectos\RavnBlazor\SwapiChallenge\Infrastructure\obj\Debug\netstandard2.1\SwapiChallenge.Infrastructure.AssemblyInfoInputs.cache
+D:\Proyectos\RavnBlazor\SwapiChallenge\Infrastructure\obj\Debug\netstandard2.1\SwapiChallenge.Infrastructure.AssemblyInfo.cs
+D:\Proyectos\RavnBlazor\SwapiChallenge\Infrastructure\obj\Debug\netstandard2.1\SwapiChallenge.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Proyectos\RavnBlazor\SwapiChallenge\Infrastructure\obj\Debug\netstandard2.1\SwapiChallenge.Infrastructure.csproj.CopyComplete
+D:\Proyectos\RavnBlazor\SwapiChallenge\Infrastructure\obj\Debug\netstandard2.1\SwapiChallenge.Infrastructure.dll
+D:\Proyectos\RavnBlazor\SwapiChallenge\Infrastructure\obj\Debug\netstandard2.1\SwapiChallenge.Infrastructure.pdb

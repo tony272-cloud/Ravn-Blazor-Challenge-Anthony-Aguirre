@@ -1,0 +1,9 @@
+D:\Proyectos\RavnBlazor\SwapiChallenge\Shared\bin\Debug\netstandard2.1\SwapiChallenge.Shared.deps.json
+D:\Proyectos\RavnBlazor\SwapiChallenge\Shared\bin\Debug\netstandard2.1\SwapiChallenge.Shared.dll
+D:\Proyectos\RavnBlazor\SwapiChallenge\Shared\bin\Debug\netstandard2.1\SwapiChallenge.Shared.pdb
+D:\Proyectos\RavnBlazor\SwapiChallenge\Shared\obj\Debug\netstandard2.1\SwapiChallenge.Shared.csproj.AssemblyReference.cache
+D:\Proyectos\RavnBlazor\SwapiChallenge\Shared\obj\Debug\netstandard2.1\SwapiChallenge.Shared.AssemblyInfoInputs.cache
+D:\Proyectos\RavnBlazor\SwapiChallenge\Shared\obj\Debug\netstandard2.1\SwapiChallenge.Shared.AssemblyInfo.cs
+D:\Proyectos\RavnBlazor\SwapiChallenge\Shared\obj\Debug\netstandard2.1\SwapiChallenge.Shared.csproj.CoreCompileInputs.cache
+D:\Proyectos\RavnBlazor\SwapiChallenge\Shared\obj\Debug\netstandard2.1\SwapiChallenge.Shared.dll
+D:\Proyectos\RavnBlazor\SwapiChallenge\Shared\obj\Debug\netstandard2.1\SwapiChallenge.Shared.pdb
